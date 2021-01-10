@@ -1,0 +1,1 @@
+document.write("<h1>JS em arquivo externo!</h1>")
